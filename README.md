@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer and an aspiring Devops Engineer!!
 
-- 🔭 I’m currently taking a cource on Deveops at Lynda.com 🤣
+- 🔭 I’m currently taking a cource on Deveops at Lynda.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and watch movies (Marvel + DC Comics)
 
